@@ -1,0 +1,72 @@
+[
+  {
+    "id": "8037857",
+    "customerName": "Ava Green",
+    "customerAddress": "123 Main St, Anytown, CA 91234",
+    "phoneNumber": "(0)152-28817386",
+    "imageURL": "https://picsum.photos/id/0/5000/3333"
+  },
+  {
+    "id": "8037856",
+    "customerName": "Amelia Clarke",
+    "customerAddress": "456 Oak Ave, Somecity, NY 10001",
+    "phoneNumber": "(0)152 28895456",
+    "imageURL": "https://picsum.photos/id/1/5000/3333"
+  },
+  {
+    "id": "8037855",
+    "customerName": "Aiden Markram",
+    "customerAddress": "789 Pine Ln, Othertown, TX 75001",
+    "phoneNumber": "(0)152-54599371",
+    "imageURL": "https://picsum.photos/id/2/5000/3333"
+  },
+  {
+    "id": "8037854",
+    "customerName": "Alex Dario",
+    "customerAddress": "101 Elm Rd, Smallville, IL 60601",
+    "phoneNumber": "(0)172-9925904",
+    "imageURL": "https://picsum.photos/id/3/5000/3333"
+  },
+  {
+    "id": "8037853",
+    "customerName": "Avery white",
+    "customerAddress": "222 Maple Dr, Bigcity, FL 33101",
+    "phoneNumber": "(0)172-9968532",
+    "imageURL": "https://picsum.photos/id/4/5000/3333"
+  },
+  {
+    "id": "8037852",
+    "customerName": "Bella Custa",
+    "customerAddress": "333 Birch Ct, Metropolis, GA 30301",
+    "phoneNumber": "(0)152-28817386",
+    "imageURL": "https://picsum.photos/id/5/5000/3334"
+  },
+  {
+    "id": "8037850",
+    "customerName": "Brooke Harry",
+    "customerAddress": "999 Willow Way, Gotham, NJ 07001",
+    "phoneNumber": "(0)172-9973185",
+    "imageURL": "https://picsum.photos/id/6/5000/3333"
+  },
+  {
+    "id": "8037849",
+    "customerName": "Blake Jhon",
+    "customerAddress": "555 Cedar Ln, Springfield, MO 65801",
+    "phoneNumber": "(0)172-9973186",
+    "imageURL": "https://picsum.photos/id/7/4728/3168"
+  },
+  {
+    "id": "8037264",
+    "customerName": "Brandon Carse",
+    "customerAddress": "888 Walnut St, Sunnyvale, CA 94085",
+    "phoneNumber": "(0)172-9980752",
+    "imageURL": "https://picsum.photos/id/8/5000/3333"
+  },
+  {
+    "id": "8037263",
+    "customerName": "Bailey George",
+    "customerAddress": "444 Park Ave, Central City, NY 10022",
+    "phoneNumber": "(0)174-9091317",
+    "imageURL": "https://picsum.photos/id/9/5000/3269"
+  }
+]
